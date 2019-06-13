@@ -1,0 +1,11 @@
+C:\Projects\TransformSystem\Transformer2\bin\Debug\Transformer2.dll
+C:\Projects\TransformSystem\Transformer2\bin\Debug\Transformer2.pdb
+C:\Projects\TransformSystem\Transformer2\bin\Debug\TransformService.dll
+C:\Projects\TransformSystem\Transformer2\bin\Debug\TransformService.pdb
+C:\Projects\TransformSystem\Transformer2\obj\Debug\Transformer2.csprojResolveAssemblyReference.cache
+C:\Projects\TransformSystem\Transformer2\obj\Debug\Transformer2.dll
+C:\Projects\TransformSystem\Transformer2\obj\Debug\Transformer2.pdb
+C:\Projects\TransformSystem\Transformer2\bin\Debug\TransformModel.dll
+C:\Projects\TransformSystem\Transformer2\bin\Debug\Transform.dll
+C:\Projects\TransformSystem\Transformer2\bin\Debug\TransformModel.pdb
+C:\Projects\TransformSystem\Transformer2\bin\Debug\Transform.pdb

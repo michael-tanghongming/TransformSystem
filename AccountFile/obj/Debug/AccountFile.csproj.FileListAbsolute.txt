@@ -1,0 +1,7 @@
+C:\Projects\TransformSystem\AccountFile\bin\Debug\AccountFile.dll
+C:\Projects\TransformSystem\AccountFile\bin\Debug\AccountFile.pdb
+C:\Projects\TransformSystem\AccountFile\bin\Debug\TransformService.dll
+C:\Projects\TransformSystem\AccountFile\bin\Debug\TransformService.pdb
+C:\Projects\TransformSystem\AccountFile\obj\Debug\AccountFile.csprojResolveAssemblyReference.cache
+C:\Projects\TransformSystem\AccountFile\obj\Debug\AccountFile.dll
+C:\Projects\TransformSystem\AccountFile\obj\Debug\AccountFile.pdb

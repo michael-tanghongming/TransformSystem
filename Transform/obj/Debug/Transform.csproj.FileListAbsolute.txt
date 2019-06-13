@@ -1,0 +1,5 @@
+C:\Projects\TransformSystem\Transform\bin\Debug\Transform.dll
+C:\Projects\TransformSystem\Transform\bin\Debug\Transform.pdb
+C:\Projects\TransformSystem\Transform\obj\Debug\Transform.csprojResolveAssemblyReference.cache
+C:\Projects\TransformSystem\Transform\obj\Debug\Transform.dll
+C:\Projects\TransformSystem\Transform\obj\Debug\Transform.pdb
